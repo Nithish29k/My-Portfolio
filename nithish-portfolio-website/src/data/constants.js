@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Nithish29k",
   resume:
-    "https://drive.google.com/file/d/1Ml6zcbhMik04K74T8iTVGs9qjZIckFJo/view?usp=sharing",
+    "https://drive.google.com/file/d/1VU9xeVrtqGla-ttNINtBps76ihtpuJsB/view",
   linkedin: "https://www.linkedin.com/in/nithish-kumar-k-157935251/",
   twitter: "",
   insta: "https://www.instagram.com/_nithish.kumar29_?igsh=MTJtZGx4M3F3Y3c0bg%3D%3D&utm_source=qr",
@@ -309,19 +309,19 @@ export const projects = [
     github: "https://github.com/nithishkumar29k/animation-login-signup",
     webapp: "https://nithish-loginpage.netlify.app/",
   },
-  // {
-  //   id: 5,
-  //   title: "Todo Web App",
-  //   date: "Jun 2021",
-  //   description:
-  //     " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-  //   image:
-  //     "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-  //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Todo-Web-App",
-  //   webapp: "https://rishav-react-todo.netlify.app/",
-  // },
+  {
+    id: 5,
+    title: "Bulding Constraction website",
+    date: "",
+    description:
+      "I designed and developed a responsive building construction website that highlights services, showcases completed projects, and allows visitors to get in touch easily. The site features a clean layout, modern visuals, and smooth navigation using React.js components. I used HTML and CSS for a well-structured layout and styling, ensuring the site looks great across all devices. This project demonstrates my ability to create professional business websites with real-world UI/UX considerations.",
+    image:
+      "https://github.com/Nithish29k/My-Portfolio/blob/main/build-cons.png?raw=true",
+    tags: ["React Js", "HTML", "CSS"],
+    category: "web app",
+    github: "",
+    webapp: "https://polite-kheer-3cf30c.netlify.app/",
+  },
   // {
   //   id: 6,
   //   title: "Breaking Bad",
